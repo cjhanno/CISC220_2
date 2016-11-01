@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Connor Hannough		10085081
+#Vanessa Reda 			10194381
+#Ryan Kartavicius		10155548
+
 for i in $(seq 0 255)
 do
   for j in $(seq 0 255)
