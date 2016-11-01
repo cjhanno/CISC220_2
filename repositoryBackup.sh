@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Connor Hannough		10085081
+#Vanessa Reda 			10194381
+#Ryan Kartavicius		10155548
+
 #crontab -e 00 1 * * * echo "Backup successful!" >> backupsLog
 
 clear
