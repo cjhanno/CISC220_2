@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Connor Hannough		10085081
+#Vanessa Reda 			10194381
+#Ryan Kartavicius		10155548
+
 #clears iptables
 sudo iptables -D INPUT 1 -j ACCEPT
 
